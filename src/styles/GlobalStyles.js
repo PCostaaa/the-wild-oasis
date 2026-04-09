@@ -112,6 +112,14 @@ html {
   font-size: 62.5%;
 }
 
+@media (max-width: 1024px) {
+  html { font-size: 56.25%; }
+}
+
+@media (max-width: 600px) {
+  html { font-size: 50%; }
+}
+
 body {
   font-family: "Poppins", sans-serif;
   color: var(--color-grey-700);
@@ -120,6 +128,7 @@ body {
   min-height: 100vh;
   line-height: 1.5;
   font-size: 1.6rem;
+  overflow-x: hidden;
 }
 
 input,

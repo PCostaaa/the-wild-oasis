@@ -45,6 +45,7 @@ const Stacked = styled.div`
 const Amount = styled.div`
   font-family: "Sono";
   font-weight: 500;
+  text-align: right;
 `;
 
 function BookingRow({ booking }) {
