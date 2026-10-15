@@ -3,6 +3,8 @@
 Internal hotel management app used by staff to manage cabins, bookings and guests.
 Main project of Jonas Schmedtmann's *Ultimate React Course* (Udemy), built with React, React Query and Supabase.
 
+**Guest website:** [The-Wild-Oasis-Website](https://github.com/PCostaaa/The-Wild-Oasis-Website)
+
 ## 📸 Screenshots
 
 ![Dashboard with sales and stay duration charts](./dashboard.png)
