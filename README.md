@@ -5,10 +5,10 @@ Main project of Jonas Schmedtmann's *Ultimate React Course* (Udemy), built with 
 
 ## 📸 Screenshots
 
-![Dashboard with sales and stay duration charts](./screenshots/dashboard.png)
-![Bookings list with status filters](./screenshots/bookings.png)
-![Guest check-in flow](./screenshots/check-in.png)
-![Cabins management](./screenshots/cabins.png)
+![Dashboard with sales and stay duration charts](./dashboard.png)
+![Bookings list with status filters](./bookings.png)
+![Guest check-in flow](./check-in.png)
+![Cabins management](./cabins.png)
 
 ## 🚀 Features
 
